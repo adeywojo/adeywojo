@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Adeyinka and I work as a Data Analyst for a Software Asset Management company.
 
 <!--
 **adeywojo/adeywojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
